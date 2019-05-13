@@ -3,7 +3,7 @@
 * `CAPSLOCK` and `FN` are function keys
 * press both function keys to access system layer (RGB & RESET)
 
-![Image of Yaktocat](dz60.png)
+![dasfreak_dz60](dz60.png)
 
 * right shift is `Insert` when tapped
 * `FN` + `ESC` = ` ``
